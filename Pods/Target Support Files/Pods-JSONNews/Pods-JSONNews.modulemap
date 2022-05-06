@@ -1,0 +1,6 @@
+module Pods_JSONNews {
+  umbrella header "Pods-JSONNews-umbrella.h"
+
+  export *
+  module * { export * }
+}
